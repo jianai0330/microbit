@@ -4,7 +4,6 @@ from Game import *
 # Author: Jeffery Raphael
 # Jan. 2019
 
-
 def main():
 
     board = [['*', '*', '*'], ['*', '*', '*'], ['*', '*', '*']]
